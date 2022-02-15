@@ -1,5 +1,5 @@
 # ecommerce-MERN-
-<h1>en utilisant:  MONGOODB - EXPRESS JS - REACT JS - NODE JS</h1>
+<h1>En utilisant: </br> MONGOODB - EXPRESS JS - REACT JS - NODE JS</h1>
 <h3>les interfaces de l'application web  :</h3>
 </br>
 <h4><strong>la partie se connecter :</strong></h4>
