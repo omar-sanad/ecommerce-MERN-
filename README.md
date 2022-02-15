@@ -4,14 +4,21 @@
 </br>
 <h4><strong>la partie se connecter :</strong></h4>
    <p align="center">
-   <img src="captures/sign in.jpg" width="350" title="hover text">
+   <img src="captures/sign in.jpg" width="650" title="hover text">
    </p>
    </br>
    
    </br>
 <h4><strong>la partie crée un compte :</strong></h4>
    <p align="center">
-   <img src="captures/sign up.jpg" width="350" title="hover text">
+   <img src="captures/sign up.jpg" width="650" title="hover text">
+   </p>
+   </br>
+   
+      </br>
+<h4><strong>la partie crée un compte :</strong></h4>
+   <p align="center">
+   <img src="captures/sign up.jpg" width="650" title="hover text">
    </p>
    </br>
    
