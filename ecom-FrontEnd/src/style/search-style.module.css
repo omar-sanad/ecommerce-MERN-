@@ -1,0 +1,16 @@
+.searchBar {
+    background: #FFF;
+    padding: 20px;
+    border-radius: 15px;
+    border: 2px solid rgba(48, 71, 94, 0.1);
+}
+
+.searchText {
+    border: 2px solid rgba(48, 71, 94, 0.1);
+    border-radius: 10px;
+    
+}
+
+.searchText:focus {
+    border: 2px solid rgb(240, 84, 84);
+}

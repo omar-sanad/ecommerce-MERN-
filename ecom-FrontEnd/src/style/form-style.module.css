@@ -1,0 +1,52 @@
+.bgButton {
+    border: 1px solid #F05454;
+    background-color: #F05454;
+    color: #F5F5F5;
+    border-radius: 7px;
+}
+
+.bgButton:hover {
+    border: 1px solid #F05454;
+    background-color: #c93232;
+    color: #F5F5F5;
+}
+
+.outerBorder {
+    border-bottom: 1px solid #30475E;
+}
+
+.outerBorder:hover {
+    border-bottom: 1px solid #F05454;
+}
+
+.formStyle {
+    background: #fff;
+    border-radius: 15px;
+    border: 2px solid #F5F5F5;
+}
+
+.title {
+    font-size: 25px;
+    color: #121212;
+    text-align: center;
+}
+
+.inp:read-only {
+    background: #F5F5F5;
+    border: 2px solid #F5F5F5;
+    border-radius: 7px;
+    padding: 12px;
+}
+
+.links {
+    background: #30475E;
+    padding: 20px 35px;
+    min-width: 200px;
+    text-align: center;
+    color: #F5F5F5; 
+    border-radius: 5px;
+}
+
+.links:hover {
+    color: #F05454;
+}
