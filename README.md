@@ -18,35 +18,6 @@ MERN E-Commerce Platform is a learning-focused web application that demonstrates
 
 Customers can create an account, browse and search the catalogue, filter products, view related items, and manage a cart. Administrators receive protected interfaces for creating product categories and adding products with images.
 
-> [!IMPORTANT]
-> This repository is a portfolio prototype, not a production-ready commerce system. Checkout, payments, order processing, automated tests, and several security upgrades remain to be implemented.
-
-## Screenshots
-
-| Home | Shop |
-| --- | --- |
-| <img src="captures/home.jpg" alt="Home page showing products" width="480"> | <img src="captures/shop.jpg" alt="Shop page with catalogue filters" width="480"> |
-
-| Product search | Shopping cart |
-| --- | --- |
-| <img src="captures/search product.jpg" alt="Product search results" width="480"> | <img src="captures/cart.jpg" alt="Shopping cart" width="480"> |
-
-<details>
-<summary><strong>View authentication and administration screens</strong></summary>
-
-| Sign in | Sign up |
-| --- | --- |
-| <img src="captures/sign in.jpg" alt="Sign-in page" width="480"> | <img src="captures/sign up.jpg" alt="Sign-up page" width="480"> |
-
-| User dashboard | Admin dashboard |
-| --- | --- |
-| <img src="captures/user dashboard.jpg" alt="User dashboard" width="480"> | <img src="captures/admin dashboard.jpg" alt="Admin dashboard" width="480"> |
-
-| Create category | Add product |
-| --- | --- |
-| <img src="captures/create category.jpg" alt="Create-category form" width="480"> | <img src="captures/add product.jpg" alt="Add-product form" width="480"> |
-
-</details>
 
 ## Features
 
