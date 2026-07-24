@@ -102,37 +102,6 @@ The repository contains two independently managed applications:
 | File handling | Formidable |
 | Utilities | Lodash, Moment.js, Toastr |
 
-## Domain model
-
-```mermaid
-erDiagram
-    USER {
-        ObjectId id
-        string name
-        string email
-        string hashed_password
-        number role
-        array history
-    }
-    CATEGORY {
-        ObjectId id
-        string name
-    }
-    PRODUCT {
-        ObjectId id
-        string name
-        string description
-        number price
-        number quantity
-        boolean shipping
-        buffer photo
-        ObjectId category
-    }
-
-    CATEGORY ||--o{ PRODUCT : contains
-```
-
-The cart is stored in the browser and is not persisted as an order in MongoDB.
 
 ## Repository structure
 
